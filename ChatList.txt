@@ -1,0 +1,25 @@
+Enter your name
+Welcome Sameer!
+Sameer: Hi
+Sameer: Hello
+Sameer: What's up?
+Raj has joined the chat!
+Raj: Hey
+Sameer: What was taught today in Python?
+Raj: Regex and Exception Handling
+Sameer: Oh
+Sameer: Alright!
+Sameer: Is it difficult?
+Raj: Not at all!
+Enter your name
+Welcome Sameer!
+Sameer: How big are these chapters?
+Enter your name
+Enter your name
+Enter your name
+Welcome Raj!
+Enter your nickname
+Enter your nickname
+Welcome Hey!
+Hey: Sameer
+Hey: HI
