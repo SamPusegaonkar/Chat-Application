@@ -8,10 +8,10 @@
                      
   **Instructions**: <br/>1. Start MYSQL using XAMPP. <br/>
                 2. Create a database (along with its details) using the following commands: <br/>
-                          mysql -u root <br/>
-                          mysql -u root create maindatalist <br/>
-                          use maindatalist; <br/>
-                          create table id(name varchar(30),username varchar(30),email varchar(30),password varchar(30)); <br/>
+                   -mysql -u root <br/>
+                   -mysql -u root create maindatalist <br/>
+                   -use maindatalist; <br/>
+                   -create table id(name varchar(30),username varchar(30),email varchar(30),password varchar(30)); <br/>
                 3. Run Server.py and Client.py <br/>
                 4. Done Diddly do. EZ. <br/>
                         
