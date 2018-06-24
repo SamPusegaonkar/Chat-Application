@@ -1,11 +1,11 @@
 # Chat-Application
  **Description**: This app utilizes a tradtional client-server model. This is done through sockets, a primary resource for establishing a                     connection,CV2 and PIL for asthetics and tkinter as a front-end interface.  
   
-  **Required Libraries**:<br/>Tkinter    pip install tkinter <br/>
-                     PyMySQL    pip install pymysql <br/>
-                     CV2        pip install opencv-python <br/>
-                     PIL        pip install pil <br/>
-                     
+  **Required Libraries**:<br/>Tkinter-pip install tkinter <br/>
+                     PyMySQL-pip install pymysql <br/>
+                     CV2-pip install opencv-python <br/>
+                     PIL-pip install pil <br/>
+                     Bebas Neue font (Included in the repo)
   **Instructions**: <br/>1. Start MYSQL using XAMPP. <br/>
                 2. Create a database (along with its details) using the following commands: <br/>
                    ⋅⋅⋅mysql -u root <br/>
