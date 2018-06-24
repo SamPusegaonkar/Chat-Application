@@ -10,6 +10,7 @@
     * Bebas Neue font (Included in the repo)
                      
   **Instructions**: 
+  
     1. Start MYSQL using XAMPP. 
     2. Create a database (along with its details) using the following commands: 
        * mysql -u root 
