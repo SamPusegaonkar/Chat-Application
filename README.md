@@ -15,6 +15,9 @@
                    ⋅⋅⋅create table id(name varchar(30),username varchar(30),email varchar(30),password varchar(30)); <br/>
                 3. Run Server.py and Client.py <br/>
                 4. Done Diddly do. EZ. <br/>
+                
+  I would like to acknowledge the kind help I got by Saurabh Chaturvedi. He wrote a medium article about the same. 
+  Check out his profile [here](https://medium.com/@arichduvet)
                         
   tweet @sampusegaonkar 
                      
