@@ -1,5 +1,5 @@
 # Chat-Application
- **Description**: This app utilizes a tradtional client-server model. This is done through sockets, a primary resource for establishing a                     connection,CV2 and PIL for aesthetics and tkinter as a front-end interface.  <br/>
+ **Description**: This app utilizes a tradtional client-server model. This is done through sockets, a primary resource for establishing a                     connection, CV2 and PIL for aesthetics and tkinter as a front-end interface.  <br/>
   
   **Required Libraries**:     
   
