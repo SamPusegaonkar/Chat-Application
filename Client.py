@@ -43,7 +43,7 @@ class CustomFont_Message(Label):
             if font_path is None:
                 raise ValueError("Font path can't be None")
                 
-            # Initialize font
+            
             truetype_font = ImageFont.truetype(font_path, size)
     
         lines = textwrap.wrap(text, width=width)
