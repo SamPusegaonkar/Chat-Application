@@ -20,7 +20,7 @@
     3. Run Server.py and Client.py 
     4. Done Diddly do. EZ. 
                 
-  I would like to acknowledge the kind help I got by Saurabh Chaturvedi. He wrote a medium article about the same. 
+  I would like to acknowledge the massive help I got by Saurabh Chaturvedi's article about the same. 
   Check out his profile [here](https://medium.com/@arichduvet)
                         
   tweet @sampusegaonkar 
