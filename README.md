@@ -19,7 +19,10 @@
        * create table id(name varchar(30),username varchar(30),email varchar(30),password varchar(30)); 
     3. Run Server.py and Client.py 
     4. Done Diddly do. EZ. 
-                
+ ![Alt text](https://github.com/SamPusegaonkar/Chat-Application/blob/master/OutputImages/Capture.PNG )
+ ![Alt text](https://github.com/SamPusegaonkar/Chat-Application/blob/master/OutputImages/Capture2.PNG )
+ ![Alt text](https://github.com/SamPusegaonkar/Chat-Application/blob/master/OutputImages/Capture3.PNG )
+ ![Alt text](https://github.com/SamPusegaonkar/Chat-Application/blob/master/OutputImages/Capture4.PNG)
   I would like to acknowledge the massive help I got by Saurabh Chaturvedi's article about the same. 
   Check out his profile [here](https://medium.com/@arichduvet)
                         
